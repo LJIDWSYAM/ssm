@@ -6,7 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cf2ba86-478b-48ab-822c-8bd5f7c682ba" name="Default Changelist" comment="" />
+    <list default="true" id="3cf2ba86-478b-48ab-822c-8bd5f7c682ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/struct.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +25,9 @@
         <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -36,10 +45,12 @@
     </option>
   </component>
   <component name="ProjectId" id="1QxS2C1i01nxRbBQAZWCmprbnPt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.21603128" />
@@ -47,9 +58,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\liujun\Desktop\ssmdemo" />
       <recent name="C:\Users\liujun\Desktop\ssmdemo\src\main\resources" />
       <recent name="C:\Users\liujun\Desktop\ssmdemo\src\main\java" />
-      <recent name="C:\Users\liujun\Desktop\ssmdemo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -227,10 +238,22 @@
       <workItem from="1568710547851" duration="591000" />
       <workItem from="1568713800211" duration="3551000" />
       <workItem from="1568717781889" duration="2771000" />
+      <workItem from="1568767286152" duration="2219000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
